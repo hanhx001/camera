@@ -10,6 +10,14 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>ipcamera</artifactId>
+    <name>ipcamera</name>
+    <description>对接硬件摄像机</description>
 
 
+    <dependencies>
+        <dependency>
+            <groupId>io.geekidea.springbootplus</groupId>
+            <artifactId>framework</artifactId>
+        </dependency>
+    </dependencies>
 </project>

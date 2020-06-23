@@ -13,7 +13,7 @@ spring:
       ui:
         external-views:
           - label: "🚀"
-            url: https://springboot.plus
+            url:
             order: 2000
 
 # Spring Boot Admin 登录账号密码
